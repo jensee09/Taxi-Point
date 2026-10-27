@@ -1,0 +1,6 @@
+{
+  "name": "Rajkot Taxi Point - Cab Service & Airport Taxi",
+  "description": "Reliable taxi and cab service in Rajkot. Local rides, Rajkot to Hirasar airport taxi, and outstation cabs to Ahmedabad, Somnath, Dwarka with real fleet and instant WhatsApp booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
